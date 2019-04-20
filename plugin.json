@@ -1,0 +1,12 @@
+{
+    "ID": "98a82616633411e99741c85b76704db5",
+    "ActionKeyword": "nt",
+    "Name": "NOTE",
+    "Description": "start my note",
+    "Author": "gl",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "http://www.getwox.com",
+    "IcoPath": "Images\\icons8_note_48px.png",
+    "ExecuteFileName": "main.py"
+}
