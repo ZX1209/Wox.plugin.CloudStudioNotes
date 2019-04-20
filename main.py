@@ -28,7 +28,7 @@ class NOTE(Wox):
                 results.append({
                     "Title": result.name,
                     "SubTitle": str(result),
-                    "IcoPath": "Images\\icons8_note_25px.png",
+                    "IcoPath": "Images\\icons8_note_48px_4.png",
                     "ContextData": "ctxData",
                     "JsonRPCAction": {
                         #You can invoke both your python functions and Wox public APIs .
@@ -46,7 +46,7 @@ class NOTE(Wox):
             results.append({
                 "Title": "no such note...",
                 "SubTitle": "open and create it",
-                "IcoPath": "Images\\icons8_note_25px.png",
+                "IcoPath": "Images\\icons8_questions_48px.png",
                 "ContextData": "ctxData",
                 "JsonRPCAction": {
                     #You can invoke both your python functions and Wox public APIs .
